@@ -47,7 +47,7 @@ def a_estrella(inicio, fin):
 # main
 camino, costo_total, explorados = a_estrella('A', 'J')
 
-# impresion en pantalla
+# impresion en pantalla de cada ejecucion realizada
 print("Camino óptimo encontrado:", " → ".join(camino))
 print("Costo total del recorrido:", costo_total, "km")
 print("Nodos explorados (en orden):", explorados)
