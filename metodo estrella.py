@@ -1,6 +1,6 @@
 import heapq  # para la cola de prioridad
 
-# Representamos al grafo (distancias en km)
+# Representamos al grafo (en km)
 grafo = {
     'A': {'B': 4, 'C': 3},
     'B': {'A': 4, 'D': 5, 'E': 10},
@@ -50,4 +50,4 @@ camino, costo_total, explorados = a_estrella('A', 'J')
 # impresion en pantalla de cada ejecucion realizada
 print("Camino óptimo encontrado:", " → ".join(camino))
 print("Costo total del recorrido:", costo_total, "km")
-print("Nodos explorados (en orden):", explorados)
+print("Nodos explorados:", explorados)
