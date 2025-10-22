@@ -63,3 +63,25 @@ camino, costo_total, explorados = a_estrella('A', 'J')
 print("Camino óptimo encontrado:", " → ".join(camino))
 print("Costo total del recorrido:", costo_total, "km")
 print("Nodos explorados:", explorados)
+
+
+##  Capturas del proyecto
+
+### Ejecución del programa
+![Ejecución del programa](img/Captura_de_pantalla_2025-10-22_192019.png)
+
+
+
+
+## Tecnologías utilizadas
+Lenguaje: **Python 3**
+Herramienta de control de versiones: **Git y GitHub**
+Editor de código: **Visual Studio Code**
+
+
+##  Conclusiones personales
+Durante el desarrollo de este trabajo aprendí a usar Git y GitHub para el control de versiones, realizando commits, push y creando repositorios remotos.  
+También reforcé la lógica del algoritmo A* y la importancia de documentar correctamente el proyecto con un archivo README.md.  
+Esta experiencia me ayudó a entender cómo se gestionan proyectos reales y cómo compartir código de forma profesional.
+
+
