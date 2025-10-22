@@ -16,7 +16,7 @@ grafo = {
 
 # Heurística h(n): estimación de la distancia restante al nodo J 
 heuristica = {
-    'A': 20, 'B': 16, 'C': 15, 'D': 12, 'E': 8,
+    'A': 20, 'B': 3, 'C': 15, 'D': 12, 'E': 8,
     'F': 10, 'G': 9, 'H': 7, 'I': 4, 'J': 0
 }
 
