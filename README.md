@@ -3,7 +3,7 @@
 Este proyecto implementa el **algoritmo A*** (A estrella), una técnica de búsqueda informada utilizada en inteligencia artificial para encontrar el camino óptimo entre dos nodos de un grafo.
 
 
-##  Descripción
+##  Descripción general del programado desarrollado
 
 El programa utiliza:
 - Un **grafo** con distancias entre nodos.
@@ -69,6 +69,7 @@ print("Nodos explorados:", explorados)
 
 ### Ejecución del programa
 ![Ejecución del programa](img/Captura_de_pantalla_2025-10-22_192019.png)
+![Ejecución del programa](img/Cap.png)
 
 
 
